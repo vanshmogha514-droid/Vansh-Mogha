@@ -1,0 +1,6 @@
+{
+  "name": "Crococast Trends | Modern Luxury Croc Leather & Streetwear",
+  "description": "Explore the official crococast trends online boutique. Premium crocodile-embossed footwear, handcrafted bags, wallets, accessories, and seamless checkout with Google Pay and PayPal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
